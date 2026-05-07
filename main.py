@@ -1642,3 +1642,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     TwentyQuestions(root)
     root.mainloop()
+    #this keeps it going in a loop instead of stopping short on questions.
