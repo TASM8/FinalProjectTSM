@@ -4,7 +4,7 @@ April 29, 2026
 Starter Code - Original 20 Questions Prototype
 
 Description:
-This file contains my orginal code version of the 20 Questions
+This file contains my original code version of the 20 Questions
 game before the project evolved into the final GUI-based smart
 trait elimination system.
 """
