@@ -11,3 +11,5 @@
 # AI also helped a lot with color because when I would enter color it just was not working and it was frustration and help add extra specs. 
 
 # I am really bad at adding noted and comments on what this code is for and why it is doing that, it would metion that it should have notes and had added some to make my code more organized. That was a huge help because I had smashed the code to close together and without ability to really tell what that section was. 
+
+# Ai was used as a support tool, I frequently tested and made changes when needed to learn and to use my resourses wisely. 
