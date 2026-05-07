@@ -1559,6 +1559,7 @@ class TwentyQuestions:
         do_out()
 
     # ── Game logic ────────────────────────────────────────────────────────────
+    #How it runs
     def start_game(self):
         self.sound.play_start()
         self.engine.reset()
