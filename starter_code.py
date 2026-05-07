@@ -10,8 +10,8 @@ trait elimination system.
 """
 
 def ask(question):
-    answer = input(question + " (yes/no): ").strip().lower()
-    return answer == "yes"
+    answer=input(question + " (yes/no): ").strip().lower()
+    return answer=="yes"
 
 
 def play():
