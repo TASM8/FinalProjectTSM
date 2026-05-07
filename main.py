@@ -1182,6 +1182,8 @@ class GameEngine:
         "is_fungus": "plant_",
     }
 
+    #I wanted to add enough catergories to make it interesting and not super simple
+
     # These questions are used only if the selected category runs out of
     # database traits before question 20. They keep the game playable and
     # prevent it from stopping at 10, 12, or 15 questions.
