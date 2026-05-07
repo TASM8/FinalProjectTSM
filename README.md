@@ -35,6 +35,8 @@ Install these libraries for sound support:
 ```bash
 pip install pygame numpy
 ```
+## How to Run the Program
+- python main.py
 
 ---
 
