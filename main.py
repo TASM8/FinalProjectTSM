@@ -83,7 +83,7 @@ QUESTIONS = {
     "is_element":      "Is it a chemical element?",
     "is_person":       "Is it a real person (living or historical)?",
     "is_character":    "Is it a fictional character?",
-    "is_fungus":       "Is it a fungus (like a mushroom)?",
+    "is_fungus":       "Is it a fungus (like a mushroom)?", #Added fungus for FUNgus!
 
     # Animal traits
     "animal_mammal":   "Is it a mammal?",
