@@ -46,5 +46,5 @@ def play():
                 else:
                     print("I guess: Mouse!")
 
-
-play()
+if __name__=="__main__":
+    play()
