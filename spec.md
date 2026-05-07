@@ -24,6 +24,13 @@
 # File handling
 # GUI programming using tkinter
 # Modules
+# python libraries used:
+tkinter
+pygame
+numpy
+threading
+random
+math
 
 ## Original Code
 
