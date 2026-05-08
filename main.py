@@ -147,6 +147,7 @@ QUESTIONS = {
     "food_frozen":     "Is it served cold or frozen?",
     "food_fizzy":      "Is it fizzy?",
     "food_caffeine":   "Does it contain caffeine?",
+    "food_yellow":      "Is it yellow?",
 
     # Object traits
     "obj_electronic":  "Is it electronic?",
@@ -629,6 +630,10 @@ ANSWERS = {
     "Orange Juice": {
         "is_food":True,"food_drink":True,"food_sweet":True,"food_hot":False,
         "food_alcohol":False,"food_fizzy":False,"food_caffeine":False,
+    },
+    "Lemonade": {
+        "is_food":True, "food_drink":True,"food_sweet":True,"food_hot":False,
+        "food_alcohol":False,"food_fizzy":False,"food_caffeine":False, "food_yellow":True,
     },
     "Beer": {
         "is_food":True,"food_drink":True,"food_alcohol":True,"food_fizzy":True,
