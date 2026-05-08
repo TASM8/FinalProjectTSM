@@ -1056,8 +1056,8 @@ ANSWERS = {
     },
     "Sebastian Talamantes": {
         "is_person":True,"person_scientist":False,"person_historical":False,"person_male":True,
-        "person_european":False,"person_american":True,"person_famous":False,"person_professor":True,"person_dork":True,
-        "person_alive":True,"person_20c":False,
+        "person_european":False,"person_american":True,"person_famous":False,"person_professor":True,
+        "person_dork":True,"person_alive":True,"person_20c":False,
     },
 
     # ── FICTIONAL CHARACTERS ──────────────────────────────────────────────────
