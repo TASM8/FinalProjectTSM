@@ -8,7 +8,7 @@ A 20 Questions game that uses trait-based elimination engine to guess what the p
 The game supports multiple catergories, sound effects, dark mode, and a 
 large knowledgable database. 
 
-Requirements: Python 3.8+  |  pip install pygame numpy  (optional, for sound)
+Requirements: Python 3.14+  |  pip install pygame numpy  (optional, for sound)
 Run: python main.py
 """
 
