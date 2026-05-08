@@ -185,6 +185,8 @@ QUESTIONS = {
     "place_hot":       "Is it known for hot weather?",
     "place_island":    "Is it an island or island nation?",
     "place_tourist":   "Is it a major tourist destination?",
+    "place_state":      "Is it in a city in a state in the US?",
+    "place_idaho":      "Is it a city in Idaho?",
 
     # Element traits
     "elem_metal":      "Is it a metal?",
@@ -212,6 +214,7 @@ QUESTIONS = {
     "person_alive":     "Are they still alive today?",
     "person_famous":    "Are they world-famous?",
     "person_20c":       "Did they live or rise to fame in the 20th century?",
+    "person_female":    "Is this person female?",
 
     # Character traits
     "char_book":        "Is this character from a book?",
@@ -905,6 +908,10 @@ ANSWERS = {
     "Rome": {
         "is_place":True,"place_city":True,"place_capital":True,"place_europe":True,
         "place_ancient":True,"place_tourist":True,
+    },
+    "Twin Falls Idaho": {
+        "is_place":True,"place_city":True,"place_capital":False,"place_europe":False,
+        "place_ancient":False,"place_tourist":True,"place_state":True,"place_idaho":True,
     },
 
     # ── ELEMENTS ──────────────────────────────────────────────────────────────
