@@ -32,21 +32,23 @@ The game includes:
 ## Optional Libraries for Sound
 Install these libraries for sound support:
 
-```bash
-pip install pygame numpy
-```
-## How to Run the Program
-- python main.py
 
----
+pip install pygame
+
+If error try:
+
+pip install pygame--ce
+
+pip install numpy
+
 
 ## How to Run the Program
 
 Run the following command in the terminal:
 
-```bash
+
 python main.py
-```
+
 
 ---
 
