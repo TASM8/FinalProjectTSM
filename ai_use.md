@@ -13,3 +13,5 @@
 # I am really bad at adding noted and comments on what this code is for and why it is doing that, it would metion that it should have notes and had added some to make my code more organized. That was a huge help because I had smashed the code to close together and without ability to really tell what that section was. 
 
 # Ai was used as a support tool, I frequently tested and made changes when needed to learn and to use my resourses wisely. 
+
+# Ai helped with showing me some catergories that may not work properly. Then I was able to fix the code myself and add a few answers to different catergories that I wanted. 
