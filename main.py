@@ -217,6 +217,7 @@ QUESTIONS = {
     "person_female":    "Is this person female?",
     "person_professor":   "Are they a professor?",
     "person_dork":         "Are they are dork?",
+    "person_work":          "Do they work at CSI?",
 
     # Character traits
     "char_book":        "Is this character from a book?",
@@ -1057,7 +1058,7 @@ ANSWERS = {
     "Sebastian Talamantes": {
         "is_person":True,"person_scientist":False,"person_historical":False,"person_male":True,
         "person_european":False,"person_american":True,"person_famous":False,"person_professor":True,
-        "person_dork":True,"person_alive":True,"person_20c":False,
+        "person_dork":True,"person_alive":True,"person_20c":False,"person_work":True,
     },
 
     # ── FICTIONAL CHARACTERS ──────────────────────────────────────────────────
