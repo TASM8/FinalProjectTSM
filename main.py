@@ -336,7 +336,7 @@ ANSWERS = {
     },
     "Koala": {
         "is_animal":True,"animal_mammal":True,"animal_australia":True,"animal_large":False,
-        "animal_fur":True,"animal_fly":False,"animal_pet":False,"animal_popular":True,
+        "animal_fur":True,"animal_fly":False,"animal_pet":False,"animal_popular":True, "animal_lays_eggs": False,
     },
     "Platypus": {
         "is_animal":True,"animal_mammal":True,"animal_australia":True,"animal_water":True,
