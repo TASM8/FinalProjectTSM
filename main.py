@@ -215,6 +215,8 @@ QUESTIONS = {
     "person_famous":    "Are they world-famous?",
     "person_20c":       "Did they live or rise to fame in the 20th century?",
     "person_female":    "Is this person female?",
+    "person_professor":   "Are they a professor?",
+    "person_dork":         "Are they are dork?",
 
     # Character traits
     "char_book":        "Is this character from a book?",
@@ -1051,6 +1053,11 @@ ANSWERS = {
     "Ada Lovelace": {
         "is_person":True,"person_scientist":True,"person_historical":True,"person_male":False,
         "person_european":True,"person_famous":True,"person_alive":False,
+    },
+    "Sebastian Talamantes": {
+        "is_person":True,"person_scientist":False,"person_historical":False,"person_male":True,
+        "person_european":False,"person_american":True,"person_famous":False,"person_professor":True,"person_dork":True,
+        "person_alive":True,"person_20c":False,
     },
 
     # ── FICTIONAL CHARACTERS ──────────────────────────────────────────────────
